@@ -23,3 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![](https://github.com/preethigoli123/Twitter/blob/main/ezgif.com-gif-maker%20(1).gif) 
+
