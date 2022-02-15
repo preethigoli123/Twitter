@@ -26,6 +26,7 @@ Here's a walkthrough of implemented user stories:
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70291046/153796207-b98fae2e-2769-4af7-9b68-d66f0a070c5d.gif)
 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70291046/154115144-2e93a0ea-2298-4fb9-b748-87c4bdc0cf44.gif)
 
 
 # Twitter - Part I
