@@ -28,6 +28,9 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70291046/154115144-2e93a0ea-2298-4fb9-b748-87c4bdc0cf44.gif)
 
+## Notes
+I am resubmitting because I forgot to show one of the functionality features in my original submission. Please do not take away a late day for my resubmission.
+
 
 # Twitter - Part I
 
